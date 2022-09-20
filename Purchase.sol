@@ -4,7 +4,6 @@ pragma solidity >=0.4.22 <0.9.0;
 // TO-DO
 // 1. Seller
 // 2. Buyer
-// 3.
 contract Purchase {
     uint256 public value;
     address payable public seller;
