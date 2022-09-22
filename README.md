@@ -1,2 +1,2 @@
-# blockchain-contracts
+# Blockchiain contracts
 Storing Contracts here
