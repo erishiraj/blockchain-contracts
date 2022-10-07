@@ -1,0 +1,25 @@
+{
+  "name": "contracts-testing",
+  "version": "1.0.0",
+  "description": "Storing Contracts here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erishiraj/blockchain-contracts.git"
+  },
+  "author": "erishiraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erishiraj/blockchain-contracts/issues"
+  },
+  "homepage": "https://github.com/erishiraj/blockchain-contracts#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.17",
+    "web3": "^1.8.0",
+    "web3-providers-http": "^1.8.0",
+    "web3-providers-ws": "^1.8.0"
+  }
+}
