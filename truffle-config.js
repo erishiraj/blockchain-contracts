@@ -17,13 +17,11 @@
  * phrase from a file you've .gitignored so it doesn't accidentally become public.
  *
  */
-
+const { mnemonic } = require('./constant');
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 //
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
-const mnemonic =
-  'enhance lady chat limb admit gym skate toy mass fire step since';
 
 module.exports = {
   /**
